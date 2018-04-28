@@ -1,1 +1,1 @@
-docker.io/prom/prometheus:latest
+docker.io/prom/prometheus:v1.8.2
